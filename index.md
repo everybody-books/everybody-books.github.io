@@ -1,4 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="assets/css/styles.scss">
 
 # 모두의 베스트셀러 (모.베.셀) 개발 과정
 

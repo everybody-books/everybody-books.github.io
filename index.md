@@ -27,7 +27,7 @@
 - [/everybody-books/everybody-books.github.io/](https://github.com/everybody-books/everybody-books.github.io/).
 7. 웹 주요 기능 개발 시작
 ![card-image-text](/assets/card-image-text.png)
-<img src="/assets/wireframe.jpeg" alt="wireframe" width="800vw">
+<img src="/assets/card-image-text.png" alt="wireframe" width="800vw">
 
 다음 구글닥([링크](https://docs.google.com/document/d/1ZXz9BhiNlToKrQ42DZMUEqzBAzms6Y-qfJiC6yDT09I/edit))을 통해서도 협업과정을 확인해 보실 수 있습니다.
 

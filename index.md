@@ -12,6 +12,7 @@
 - 읽고 싶은 책(즐겨찾기) 기능
 - 읽은 책(별점/리뷰) 기능
 3. 와이어프레임 작성
+![wireframe.jpeg](/assets/wireframe.jpeg)
 4. 웹 주요 기능 분담
 - 회원가입 및 로그인 기능 (@khjoo1203)
 - 베스트셀러 크롤링/스크래핑 기능 (@cdrhim)
@@ -21,6 +22,7 @@
 6. GitHub Page 설정 및 배포
 - [/everybody-books/everybody-books.github.io/](https://github.com/everybody-books/everybody-books.github.io/).
 7. 웹 주요 기능 개발 시작
+![card-image-text.png](/assets/card-image-text.png)
 
 다음 구글닥([링크](https://docs.google.com/document/d/1ZXz9BhiNlToKrQ42DZMUEqzBAzms6Y-qfJiC6yDT09I/edit))을 통해서도 협업과정을 확인해 보실 수 있습니다.
 

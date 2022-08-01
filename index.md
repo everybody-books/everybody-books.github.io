@@ -14,9 +14,9 @@
 
 ### Contact the following for more information.
 
-'''
+```markdown
 @cdrhim
 @decaf-latte
 @khjoo1203
 @senasoon
-'''
+```

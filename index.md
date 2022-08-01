@@ -26,6 +26,7 @@
 
 다음 구글닥([링크](https://docs.google.com/document/d/1ZXz9BhiNlToKrQ42DZMUEqzBAzms6Y-qfJiC6yDT09I/edit))을 통해서도 협업과정을 확인해 보실 수 있습니다.
 
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRoP9Cvli_rm4rbLGPDA3OhO-SGgUH3ImNOP5bTWaXK7C5L7Xv92ixXriQHpsjvJvZBDuT1dTXx_kto/pub?embedded=true"></iframe>
 
 ### Contact the following for more information.
 

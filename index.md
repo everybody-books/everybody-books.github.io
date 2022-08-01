@@ -23,7 +23,7 @@
 - 읽고 싶은 책(즐겨찾기) 기능 (@decaf-latte)
 - 읽은 책(별점/리뷰) 기능 (@senasoon)
 5. GitHub Repo 설정 및 기능별 branch 생성
-- [/everybody-books/bestseller-books/](https://github.com/everybody-books/bestseller-books).
+- [/everybody-books/bestseller-books/](https://github.com/everybody-books/everybody-bestseller).
 6. GitHub Page 설정 및 배포
 - [/everybody-books/everybody-books.github.io/](https://github.com/everybody-books/everybody-books.github.io/).
 7. 웹 주요 기능 개발 시작

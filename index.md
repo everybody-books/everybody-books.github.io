@@ -15,8 +15,7 @@
 - 읽고 싶은 책(즐겨찾기) 기능
 - 읽은 책(별점/리뷰) 기능
 3. 와이어프레임 작성
-![wireframe](/assets/wireframe.png)
-<img src="/assets/wireframe.jpeg" alt="The wireframe" width="50dw">
+![wireframe](/assets/wireframe.jpeg)
 4. 웹 주요 기능 분담
 - 회원가입 및 로그인 기능 (@khjoo1203)
 - 베스트셀러 크롤링/스크래핑 기능 (@cdrhim)

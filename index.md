@@ -1,10 +1,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="assets/css/styles.scss">
 
-# 모두의 베스트셀러 (모.베.셀) 개발 과정
+# 📚 모두의 베스트셀러 (모.베.셀) 개발 과정 
 
 
-## 220801
+## 🗓 220801
 
 1. 목표 웹서비스 설정
 - 각종 사이트들의 베스트셀러 목록을 크롤링/스크래핑해서 한 웹사이트에서 보여주기.

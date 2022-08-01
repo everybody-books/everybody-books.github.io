@@ -11,15 +11,16 @@
 - 베스트셀러 크롤링/스크래핑 기능
 - 읽고 싶은 책(즐겨찾기) 기능
 - 읽은 책(별점/리뷰) 기능
-3. 웹 주요 기능 분담
+3. 와이어프레임 작성
+4. 웹 주요 기능 분담
 - 회원가입 및 로그인 기능 (@khjoo1203)
 - 베스트셀러 크롤링/스크래핑 기능 (@cdrhim)
 - 읽고 싶은 책(즐겨찾기) 기능 (@decaf-latte)
 - 읽은 책(별점/리뷰) 기능 (@senasoon)
-4. GitHub Repo 설정 및 기능별 branch 생성
-5. GitHub Page 설정 및 배포
+5. GitHub Repo 설정 및 기능별 branch 생성
+6. GitHub Page 설정 및 배포
 - [/everybody-books/everybody-books.github.io/](https://github.com/everybody-books/everybody-books.github.io/).
-6. 웹 주요 기능 개발 시작
+7. 웹 주요 기능 개발 시작
 
 다음 구글닥([링크](https://docs.google.com/document/d/1ZXz9BhiNlToKrQ42DZMUEqzBAzms6Y-qfJiC6yDT09I/edit))을 통해서도 협업과정을 확인해 보실 수 있습니다.
 

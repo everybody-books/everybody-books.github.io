@@ -27,8 +27,8 @@
 ### Contact the following for more information.
 
 ```markdown
-@cdrhim
-@decaf-latte
-@khjoo1203
-@senasoon
+[@cdrhim](https://github.com/cdrhim)
+[@decaf-latte](https://github.com/decaf-latte)
+[@khjoo1203](https://github.com/khjoo1203)
+[@senasoon](https://github.com/senasoon)
 ```
